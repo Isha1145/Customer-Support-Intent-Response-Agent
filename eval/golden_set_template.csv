@@ -1,0 +1,3 @@
+tweet_id,customer_text,brand_reply_text,true_intent,true_should_escalate,true_escalate_reason,labeling_notes
+1001,"Photoshop keeps crashing every time I try to open a PSD file, this is so frustrating",Sorry to hear that! Can you tell us your OS version and Photoshop version via DM? Try clearing the Photoshop cache first: Edit > Purge > All.,bug_crash,FALSE,"known troubleshooting step exists, low risk",
+1006,"someone else logged into my adobe account and changed my email, please help urgently",This sounds like unauthorized account access - please DM us immediately with your account details so our security team can lock down the account.,security_incident,TRUE,"account takeover, always escalate",

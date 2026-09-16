@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+results/*.csv
+data/twcs.csv
+data/adobecare_clean.csv
+data/adobecare_sample.csv
